@@ -1,0 +1,54 @@
+footer {
+    position: fixed;
+    height: auto;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+
+main{
+    
+    min-height: 100vh;
+    height: max-content;
+}
+
+#create_cine{
+    min-height: 80vh;
+}
+
+.btn-mio{
+    margin: 10px;
+    width: auto;
+}
+
+.card-img-top {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
+
+#welcome-page-img{
+    width: 40%;
+    min-height: auto;
+    
+}
+
+.list-cinema{
+    list-style-image: url('');
+    
+}
+
+#cartel{
+    min-height: 200px;
+    background-color: white;
+    width: 100%;
+}
+
+.full-screen{
+    min-height: 100vh;
+}
+
+.bg-img{
+background-image: url('../images/background.png');
+}
+
